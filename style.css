@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: black;
+    padding: 15px;
+}
+div.main-content {
+    margin-left: 200px; 
+    margin-top: 10px;
+}
+div.movie {
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+}
+div.movie h4 {
+    text-align: center;
+    color: white;
+    font-size: large;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+div.movie button {
+    color: white;
+    background-color: blue;
+    padding: 8px;
+}
+h2 {
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+    font-size: small;
+    margin-bottom: 20px;
+}
